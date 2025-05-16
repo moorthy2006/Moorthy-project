@@ -1,5 +1,0 @@
-<Error>
-<Code>MissingSecurityHeader</Code>
-<Message>Invalid argument.</Message>
-<Details>Your request was missing a required header. Missing headers: x-goog-expires</Details>
-</Error>
